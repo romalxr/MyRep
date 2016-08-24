@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSampleTests\bin\Debug\DeploymentItemAttributeSampleTests.dll
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSampleTests\bin\Debug\DeploymentItemAttributeSampleTests.pdb
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSampleTests\bin\Debug\DeploymentItemAttributeSample.dll
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSampleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSampleTests\bin\Debug\DeploymentItemAttributeSample.pdb
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSampleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSampleTests\obj\Debug\DeploymentItemAttributeSampleTests.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSampleTests\obj\Debug\DeploymentItemAttributeSampleTests.dll
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSampleTests\obj\Debug\DeploymentItemAttributeSampleTests.pdb
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSampleTests\bin\Debug\Templates\ExamCreatedTemplate.txt
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSampleTests\bin\Debug\Files\ExamCreatedResult.txt
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSampleTests\bin\Debug\Files\ExamCreatedTemplate.txt

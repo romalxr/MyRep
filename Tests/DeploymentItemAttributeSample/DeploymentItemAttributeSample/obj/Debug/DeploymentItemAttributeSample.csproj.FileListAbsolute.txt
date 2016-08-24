@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSample\bin\Debug\DeploymentItemAttributeSample.dll
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSample\bin\Debug\DeploymentItemAttributeSample.pdb
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSample\obj\Debug\DeploymentItemAttributeSample.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSample\obj\Debug\DeploymentItemAttributeSample.dll
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSample\obj\Debug\DeploymentItemAttributeSample.pdb
+c:\users\user\documents\visual studio 2015\Projects\DeploymentItemAttributeSample\DeploymentItemAttributeSample\bin\Debug\Templates\ExamCreatedTemplate.txt

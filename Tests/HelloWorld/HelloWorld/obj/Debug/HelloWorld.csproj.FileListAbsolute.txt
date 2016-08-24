@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\user\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\user\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\user\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\user\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

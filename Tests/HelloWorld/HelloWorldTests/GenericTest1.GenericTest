@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GenericTest name="GenericTest1" storage="c:\users\user\documents\visual studio 2015\projects\helloworld\helloworldtests\generictest1.generictest" id="b9595438-e15f-4c12-bcce-4bea8c23e8a9" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Command filename="C:\Users\user\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe" arguments="&quot;Hello world&quot;" workingDirectory="%TestOutputDirectory%" />
+  <SummaryXmlFile path="%TestOutputDirectory%\&lt;Enter summary file name here&gt;" />
+</GenericTest>

@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLibTests\bin\Debug\MyCalcLibTests.dll
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLibTests\bin\Debug\MyCalcLibTests.pdb
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLibTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLibTests\bin\Debug\MyCalcLib.dll
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLibTests\bin\Debug\MyCalcLib.pdb
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLibTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLibTests\obj\Debug\MyCalcLibTests.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLibTests\obj\Debug\MyCalcLibTests.dll
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLibTests\obj\Debug\MyCalcLibTests.pdb
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLibTests\bin\Debug\testData.xml
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLibTests\bin\Debug\OrderedTest1.orderedtest

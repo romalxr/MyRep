@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLib\bin\Debug\MyCalcLib.dll
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLib\bin\Debug\MyCalcLib.pdb
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.dll
+c:\users\user\documents\visual studio 2015\Projects\MyCalcLib\MyCalcLib\obj\Debug\MyCalcLib.pdb

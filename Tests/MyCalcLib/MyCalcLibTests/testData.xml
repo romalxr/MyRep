@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SumDetails>
+  <Sum a="5" b="10" expected="15"/>
+  <Sum a="43" b="4" expected="47"/>
+  <Sum a="-6" b="7" expected="1"/>
+  <Sum a="-1003" b="-310" expected="-1313"/>
+  <Sum a="0" b="0" expected="0"/>
+</SumDetails>

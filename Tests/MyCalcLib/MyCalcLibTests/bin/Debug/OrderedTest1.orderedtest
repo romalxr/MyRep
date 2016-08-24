@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="OrderedTest1" storage="c:\users\user\documents\visual studio 2015\projects\mycalclib\mycalclibtests\orderedtest1.orderedtest" id="7aefa512-5cd5-46a3-afd3-4fb9af05d3a4" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="74dedddb-4b37-6d8d-c901-57c566f71af3" name="Div_10_2_5Expected" storage="bin\debug\mycalclibtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="800a6b67-faad-5b2c-5f80-8b67e207f130" name="Div_10_0_ExceptionExpected" storage="bin\debug\mycalclibtests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
